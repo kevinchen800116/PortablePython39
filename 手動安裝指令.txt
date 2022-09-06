@@ -1,0 +1,9 @@
+Windows環境：
+
+　　安裝whl包：pip install wheel    ->    pip install  **.whl
+
+　　安裝tar.gz包：cd到解壓後路徑,python setup.py install
+
+
+解除安裝
+pip uninstall 包名
